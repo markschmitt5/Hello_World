@@ -1,3 +1,12 @@
+# Table of Contents
+
+- [PROJECT TITLE](#Project-Title)
+- [DESCRIPTION](#Description)
+- [HOW TO RUN PROGRAM](#How-to-run-program)
+- [FILES USED](#files-used)
+- [ADDITIONAL DOCUMENTATION](#additional-documentation)
+- [VERSIONING](#versioning)
+
 # Hello_World
 Practice Repository
 
@@ -13,12 +22,7 @@ Practice using GitHub by creating a sample repository.
 Explain how to run the program and what files need to be available.
 
 # Files Used
-What data files?
-List filenames
-Where you got them
-What is contained within the data files?
-Datafile considerations
-URL links to files (if any)
+No current available files.
 
 # Additional Documentation
 No current available additional documentation.
