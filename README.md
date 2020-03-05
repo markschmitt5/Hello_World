@@ -26,7 +26,6 @@ Explain how to run the program and what files need to be available.
 
 ## *Files Used*
 [title](https://www.example.com)
-![alt text](image.jpg)
 
 ## *Additional Documentation*
 No current available additional documentation.
