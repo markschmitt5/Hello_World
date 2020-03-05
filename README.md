@@ -25,7 +25,6 @@ Explain how to run the program and what files need to be available.
 3. Third step
 
 ## *Files Used*
-No current available files.
 [title](https://www.example.com)
 
 ## *Additional Documentation*
